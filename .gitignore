@@ -4,5 +4,5 @@ output/*.sql
 errorReport.txt
 errorReportSql.txt
 .RData
-.RHistory
+.Rhistory
 inst/doc
