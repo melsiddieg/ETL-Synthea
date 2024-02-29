@@ -14,7 +14,7 @@ Description: ETL and Builder to convert Synthea Data to the OMOP CDM.
     correctly to create a full functional OMOP CDM from Synthea.
 	As the CDM Vocabulary can be quite large, there is the option to copy
 	the vocabulary from another schema that already has it loaded.
-    This package assumes an RDBMS exists to which you have read/write access.
+    This package assumes an RDBMS exists to which you have read/write access. This package still needs more documentation.
 License: Apache License 2.0
 Imports:
     SqlRender,
